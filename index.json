@@ -1,5 +1,5 @@
 {
-    "windows": {
+    "win32": {
         "php": [
             {
                 "name": "php 5.6",
